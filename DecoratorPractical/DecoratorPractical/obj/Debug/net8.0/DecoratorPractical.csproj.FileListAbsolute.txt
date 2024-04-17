@@ -1,0 +1,14 @@
+D:\School\DecoratorPractical\DecoratorPractical\bin\Debug\net8.0\DecoratorPractical.exe
+D:\School\DecoratorPractical\DecoratorPractical\bin\Debug\net8.0\DecoratorPractical.deps.json
+D:\School\DecoratorPractical\DecoratorPractical\bin\Debug\net8.0\DecoratorPractical.runtimeconfig.json
+D:\School\DecoratorPractical\DecoratorPractical\bin\Debug\net8.0\DecoratorPractical.dll
+D:\School\DecoratorPractical\DecoratorPractical\bin\Debug\net8.0\DecoratorPractical.pdb
+D:\School\DecoratorPractical\DecoratorPractical\obj\Debug\net8.0\DecoratorPractical.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\DecoratorPractical\DecoratorPractical\obj\Debug\net8.0\DecoratorPractical.AssemblyInfoInputs.cache
+D:\School\DecoratorPractical\DecoratorPractical\obj\Debug\net8.0\DecoratorPractical.AssemblyInfo.cs
+D:\School\DecoratorPractical\DecoratorPractical\obj\Debug\net8.0\DecoratorPractical.csproj.CoreCompileInputs.cache
+D:\School\DecoratorPractical\DecoratorPractical\obj\Debug\net8.0\DecoratorPractical.dll
+D:\School\DecoratorPractical\DecoratorPractical\obj\Debug\net8.0\refint\DecoratorPractical.dll
+D:\School\DecoratorPractical\DecoratorPractical\obj\Debug\net8.0\DecoratorPractical.pdb
+D:\School\DecoratorPractical\DecoratorPractical\obj\Debug\net8.0\DecoratorPractical.genruntimeconfig.cache
+D:\School\DecoratorPractical\DecoratorPractical\obj\Debug\net8.0\ref\DecoratorPractical.dll
